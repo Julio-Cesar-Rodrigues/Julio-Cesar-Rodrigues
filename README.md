@@ -16,26 +16,27 @@ Olá, eu sou o Julio
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196/)]( https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196/)
 
-https://github-readme-stats.vercel.app/api?username={github.com/Julio-Cesar-Rodrigues}
 
-[![Julio-Cesar-Rodrigues GitHub stats](	https://github-readme-stats.vercel.app/api?username={github.com/Julio-Cesar-Rodrigues} https://github-readme-stats.vercel.app/api?username=https://github.com/Julio-Cesar-Rodrigues)](https://github.com/https://github.com/Julio-Cesar-Rodrigues/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Julio-Cesar-Rodrigues=anuraghazra&layout=compact)](https://github.com/Julio-Cesar-Rodrigues/github-readme-stats)
 
 
-https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+<code> <img heigth: "20" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></code>
 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+<code> <img heigth: "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+<code> <img heigth: "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
-https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+<code> <img heigth: "20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+<code> <img heigth: "20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+<code> <img heigth: "20" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
+
+<code> <img heigth: "20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+
+<code> <img heigth: "20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 	
 
 
