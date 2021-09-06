@@ -14,11 +14,13 @@ Olá, eu sou o Julio
   Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jullio_czar/)](https://www.instagram.com/jullio_czar/)
   
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196/)]( https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196/)
+   [![Linkedin
+  Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196/)](https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196//)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Julio-Cesar-Rodrigues=anuraghazra&layout=compact)](https://github.com/Julio-Cesar-Rodrigues/github-readme-stats)
 
+[![Julio-Cesar-Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-Cesar-Rodrigues)](https://github.com/Julio-Cesar-Rodrigues/github-readme-stats)
 
 
 
