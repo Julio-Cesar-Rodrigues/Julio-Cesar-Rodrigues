@@ -16,7 +16,7 @@ Olá, eu sou o Julio
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196/)]( https://www.linkedin.com/in/julio-cesar-rodrigues-b7a798196/)
 
-	https://github-readme-stats.vercel.app/api?username={username}
+https://github-readme-stats.vercel.app/api?username={github.com/Julio-Cesar-Rodrigues}
 
 [![Julio-Cesar-Rodrigues GitHub stats](	https://github-readme-stats.vercel.app/api?username={github.com/Julio-Cesar-Rodrigues} https://github-readme-stats.vercel.app/api?username=https://github.com/Julio-Cesar-Rodrigues)](https://github.com/https://github.com/Julio-Cesar-Rodrigues/github-readme-stats)
 
